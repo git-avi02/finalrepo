@@ -1,1 +1,7 @@
+
 This is a branch file
+
+Thi is a barnch in demo
+
+This conflict is resolved
+
